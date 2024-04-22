@@ -1,6 +1,6 @@
 # mealsApp
  
-![Screenshot_1713807187](https://github.com/yagmur94/mealsApp/assets/158301655/b60c2546-4b90-475b-940f-ca5d87bdcaa8 = 250x)
+![Screenshot_1713807187](https://github.com/yagmur94/mealsApp/assets/158301655/b60c2546-4b90-475b-940f-ca5d87bdcaa8)
 ![Screenshot_1713807180](https://github.com/yagmur94/mealsApp/assets/158301655/9e5fc3c8-74c5-4589-94a4-86635cce7fd9)
 ![Screenshot_1713808235](https://github.com/yagmur94/mealsApp/assets/158301655/5dbf1f38-ffdd-4a43-b66e-056ecda9d578)
 ![Screenshot_1713807301](https://github.com/yagmur94/mealsApp/assets/158301655/6b03949c-1e88-4790-badd-1c3b89c4f86e)
